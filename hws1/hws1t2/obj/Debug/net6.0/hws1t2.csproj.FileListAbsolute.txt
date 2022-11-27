@@ -1,0 +1,15 @@
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\bin\Debug\net6.0\hws1t2.exe
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\bin\Debug\net6.0\hws1t2.deps.json
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\bin\Debug\net6.0\hws1t2.runtimeconfig.json
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\bin\Debug\net6.0\hws1t2.dll
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\bin\Debug\net6.0\hws1t2.pdb
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\obj\Debug\net6.0\hws1t2.csproj.AssemblyReference.cache
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\obj\Debug\net6.0\hws1t2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\obj\Debug\net6.0\hws1t2.AssemblyInfoInputs.cache
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\obj\Debug\net6.0\hws1t2.AssemblyInfo.cs
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\obj\Debug\net6.0\hws1t2.csproj.CoreCompileInputs.cache
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\obj\Debug\net6.0\hws1t2.dll
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\obj\Debug\net6.0\refint\hws1t2.dll
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\obj\Debug\net6.0\hws1t2.pdb
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\obj\Debug\net6.0\hws1t2.genruntimeconfig.cache
+C:\Users\glaml\Desktop\C SHARP\HW\hws1t2\obj\Debug\net6.0\ref\hws1t2.dll
