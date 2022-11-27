@@ -15,7 +15,7 @@ Console.WriteLine(res);
 }
 else {
 
-    Console.WriteLine("введите трехзначное число");
+    Console.WriteLine("вы ввели не трехзначное число");
 }
 
 // if (data < 0){
