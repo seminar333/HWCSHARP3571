@@ -30,8 +30,8 @@ int[] arr = GetRandomArray(size, LEFTRANGE, RIGHTRANGE);
 
 for (int i = 0; i < arr.Length; i++)
 {
-    if (arr[i] > arr[arr.Length-i-1]) max = arr[i];
-    if (arr[i] < arr[arr.Length - i -1]) min=arr[i];
+    if (arr[i] > max) max = arr[i];
+    if (arr[i] <min) min=arr[i];
     rez = max - min;
 }
 Console.WriteLine();
